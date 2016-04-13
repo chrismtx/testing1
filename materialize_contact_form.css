@@ -1,0 +1,31 @@
+body, html {
+  background-color: #EDEDED !important;   
+}
+
+.contact .col {
+    margin-bottom: 24px;
+}
+
+.contact h5, .contact h6 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.contact h6 {
+    margin-bottom: 45px;
+}
+
+.contact .card {
+    text-align: center;
+}
+
+.contact .card img {
+    border-radius: 100%;
+}
+
+.contact hr {
+    width: 40px;
+    margin-bottom: 45px;
+}
+
